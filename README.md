@@ -4,9 +4,6 @@ I am a frontend / full-stack engineer focused on building  accessible, inclusive
 
 I've built and developed various interactive applications throughout my career, covering everything from SaaS to mobile and web applications. These experiences allowed me to approach UI/UX with a user-goal-driven approach and develop accessibility and scalability applications.
 
-**Contact me if you would like to make cool stuff together! I'm currently looking for work.**
-
-
 ## Tools 👨🏻‍💻
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
