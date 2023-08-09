@@ -2,7 +2,7 @@
 
 I am a frontend / full-stack engineer focused on building  accessible, inclusive products and digital experiences for the web. My passion for web technologies led me to attend Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Computer Science.
 
-I've built and developed various interactive applications throughout my career, covering everything from SaSS to mobile and web applications. These experiences allowed me to approach UI/UX with a user-goal-driven approach and develop accessibility and scalability applications.
+I've built and developed various interactive applications throughout my career, covering everything from SaaS to mobile and web applications. These experiences allowed me to approach UI/UX with a user-goal-driven approach and develop accessibility and scalability applications.
 
 **Contact me if you would like to make cool stuff together! I'm currently looking for work.**
 
